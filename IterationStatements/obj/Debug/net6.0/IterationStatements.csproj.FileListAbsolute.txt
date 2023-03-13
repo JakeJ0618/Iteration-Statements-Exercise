@@ -1,0 +1,15 @@
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\refint\IterationStatements.dll
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
+C:\Users\matta\Desktop\C# Folder\repos\Iteration-Statements-Exercise\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
